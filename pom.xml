@@ -13,19 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ci-cd-test</name>
 	<description>Demo project for Spring Boot</description>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -51,11 +38,11 @@
 		</plugins>
 	</build>
 
-<!--	<distributionManagement>-->
-<!--		<repository>-->
-<!--			<id>github</id>-->
-<!--			<url>https://maven.pkg.github.com/girish-thetechieguy/ci-cd-test.git</url>-->
-<!--		</repository>-->
-<!--	</distributionManagement>-->
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://github.com/girish-thetechieguy/ci-cd-test.git</url>
+		</repository>
+	</distributionManagement>
 
 </project>
