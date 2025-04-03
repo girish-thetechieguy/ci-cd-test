@@ -38,11 +38,11 @@
 		</plugins>
 	</build>
 
-	<distributionManagement>
-		<repository>
-			<id>github</id>
-			<url>https://github.com/girish-thetechieguy/ci-cd-test.git</url>
-		</repository>
-	</distributionManagement>
+<!--	<distributionManagement>-->
+<!--		<repository>-->
+<!--			<id>github</id>-->
+<!--			<url>https://github.com/girish-thetechieguy/ci-cd-test.git</url>-->
+<!--		</repository>-->
+<!--	</distributionManagement>-->
 
 </project>
